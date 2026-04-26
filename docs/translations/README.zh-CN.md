@@ -36,10 +36,17 @@ graphify 分两轮执行。第一轮是确定性的 AST 提取，对代码文件
 **要求：** Python 3.10+，并且使用以下平台之一：[Claude Code](https://claude.ai/code)、[Codex](https://openai.com/codex)、[OpenCode](https://opencode.ai)、[OpenClaw](https://openclaw.ai)、[Factory Droid](https://factory.ai) 或 [Trae](https://trae.ai)
 
 ```bash
+# 推荐方式（自动加入 PATH）
+uv tool install graphifyy && graphify install
+# 或使用 pipx
+pipx install graphifyy && graphify install
+# 或 pip
 pip install graphifyy && graphify install
 ```
 
-> PyPI 包当前暂时叫 `graphifyy`，因为 `graphify` 这个名字还在回收中。CLI 命令和 skill 命令仍然都是 `graphify`。
+> **官方包名：** PyPI 包名为 `graphifyy`（安装时用 `pip install graphifyy`）。唯一的官方仓库是 [safishamsi/graphify](https://github.com/safishamsi/graphify)。CLI 命令和 skill 命令仍然都是 `graphify`。
+
+> **`graphify: command not found`？** 推荐使用 `uv tool install graphifyy` 或 `pipx install graphifyy` — 两者都会将 CLI 安装到自动加入 PATH 的托管位置。使用 `pip` 时，可能需要手动将 `~/.local/bin`（Linux）或 `~/Library/Python/3.x/bin`（Mac）加入 PATH，或改用 `python -m graphify`。Windows 上 pip 脚本位于 `%APPDATA%\Python\PythonXY\Scripts`。
 
 ### 平台支持
 
