@@ -69,14 +69,16 @@
       },
       {
         "id": "he_data_capital_5pillars",
-        "label": "中華邦聯五柱數據資本",
+        "label": "中華邦聯五維數據資本體系（含演化節點）",
         "nodes": [
           "c_score",
           "e_score",
           "p_score",
           "s_score_bang",
           "b_score",
-          "shu_ju_zi_ben"
+          "shu_ju_zi_ben",
+          "san_tiao_yuan_ze",
+          "cic_ji_fen"
         ],
         "relation": "form",
         "confidence": "EXTRACTED",
@@ -163,7 +165,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wen_zhi"
     },
     {
@@ -271,7 +273,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "h_ald"
     },
     {
@@ -343,7 +345,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wen_zhi_shuang_ceng"
     },
     {
@@ -355,7 +357,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wen_zhi_san_pin"
     },
     {
@@ -367,7 +369,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "hsa_ge_ti"
     },
     {
@@ -379,7 +381,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "wen_zhi_jie_dian"
     },
     {
@@ -391,7 +393,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "huo_yu_zhou"
     },
     {
@@ -439,7 +441,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wen_ding_zhe"
     },
     {
@@ -451,7 +453,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "chen_zhi_yuan"
     },
     {
@@ -475,7 +477,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "jiang_wan_an"
     },
     {
@@ -499,7 +501,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "deng_xiao_ping"
     },
     {
@@ -511,7 +513,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "jiang_jing_guo"
     },
     {
@@ -535,7 +537,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "zhong_hua_bang_lian"
     },
     {
@@ -559,7 +561,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "hai_ou_xiao_zu"
     },
     {
@@ -571,7 +573,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "xin_zhu_yuan_qu"
     },
     {
@@ -583,7 +585,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "bang_lian_ke_wei"
     },
     {
@@ -595,7 +597,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "hei_xiang_da_lou"
     },
     {
@@ -607,7 +609,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "bang_lian_yi_hui"
     },
     {
@@ -655,7 +657,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "zhen_xi_chuang_sheng"
     },
     {
@@ -691,7 +693,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "gong_cheng_bang_lian"
     },
     {
@@ -703,7 +705,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "tai_ji_dian"
     },
     {
@@ -727,7 +729,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "quan_qiu_ji_yin_ku"
     },
     {
@@ -751,7 +753,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "shu_ju_lv_zhou"
     },
     {
@@ -763,7 +765,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "pan_gu"
     },
     {
@@ -787,7 +789,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wu_er_su_si"
     },
     {
@@ -811,7 +813,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "tian_cheng"
     },
     {
@@ -823,7 +825,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "ding_ge"
     },
     {
@@ -835,7 +837,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "bei_ke_shan"
     },
     {
@@ -871,7 +873,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "sang_da"
     },
     {
@@ -883,7 +885,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "mei_ta_te_long"
     },
     {
@@ -931,7 +933,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "le_tuo_ai"
     },
     {
@@ -943,7 +945,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "tai_hai_wei_ji_1983"
     },
     {
@@ -955,7 +957,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "hu_tai_xie_yi"
     },
     {
@@ -967,7 +969,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "kal007"
     },
     {
@@ -979,7 +981,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "able_archer_83"
     },
     {
@@ -1027,7 +1029,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "tian_an_men"
     },
     {
@@ -1039,7 +1041,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "su_lian_jie_ti"
     },
     {
@@ -1051,7 +1053,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "tian_e_rong"
     },
     {
@@ -1075,7 +1077,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "chi_se_feng_gan"
     },
     {
@@ -1087,7 +1089,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "neng_yuan_beng_pan"
     },
     {
@@ -1099,7 +1101,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "ye_bai_he"
     },
     {
@@ -1111,7 +1113,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "dong_yuan_kan_luan_zhong"
     },
     {
@@ -1135,7 +1137,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "tian_zhao_yi_hao"
     },
     {
@@ -1147,7 +1149,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "san_da_wei_ji_1983"
     },
     {
@@ -1159,7 +1161,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "xin_ye_lu_sa_leng"
     },
     {
@@ -1171,7 +1173,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "a_ta_ka_ma_ji_tan"
     },
     {
@@ -1183,7 +1185,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "shi_jie_zhi_yan"
     },
     {
@@ -1195,7 +1197,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "ya_ma_xun_wen_zhi"
     },
     {
@@ -1219,7 +1221,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "kun_lun_tong_dao"
     },
     {
@@ -1231,7 +1233,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "kai_cheng_qu"
     },
     {
@@ -1279,7 +1281,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "chang_he_ping"
     },
     {
@@ -1295,63 +1297,63 @@
       "id": "shu_ju_zi_ben"
     },
     {
-      "label": "C-Score（主控鑰）",
+      "label": "C維度/C-Score——創造貢獻指數（Creative Production Index）",
       "file_type": "document",
-      "source_file": "2040世界概況_中華邦聯.md",
+      "source_file": "隨筆.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "c_score"
     },
     {
-      "label": "E-Score（經濟評分）",
+      "label": "E維度——環境承擔貢獻指數（Environmental Stewardship Index）",
       "file_type": "document",
-      "source_file": "2040世界概況_中華邦聯.md",
+      "source_file": "隨筆.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "e_score"
     },
     {
-      "label": "P-Score（政治評分）",
+      "label": "P維度——發展貢獻指數（Personal Development Index）",
       "file_type": "document",
-      "source_file": "2040世界概況_中華邦聯.md",
+      "source_file": "隨筆.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "p_score"
     },
     {
-      "label": "S-Score（社會評分）",
+      "label": "S維度——連結貢獻指數（Social Connection Index）",
       "file_type": "document",
-      "source_file": "2040世界概況_中華邦聯.md",
+      "source_file": "隨筆.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "s_score_bang"
     },
     {
-      "label": "B-Score（行為評分）",
+      "label": "B維度——生命貢獻指數（Biological Vitality Index）",
       "file_type": "document",
-      "source_file": "2040世界概況_中華邦聯.md",
+      "source_file": "隨筆.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "b_score"
     },
     {
@@ -1495,7 +1497,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "da_di_zhi_xin"
     },
     {
@@ -1507,7 +1509,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "alpha_xing_zi_ben"
     },
     {
@@ -1519,7 +1521,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "ai_yin_si_tan_yi_se_lie"
     },
     {
@@ -1543,7 +1545,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "tas_man_xie_yi"
     },
     {
@@ -1555,7 +1557,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "xin_si_lu"
     },
     {
@@ -1615,7 +1617,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 1,
       "id": "tai_wan_28_xi"
     },
     {
@@ -1627,7 +1629,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "43_li_wei"
     },
     {
@@ -1639,7 +1641,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "2029_gong_tou"
     },
     {
@@ -1651,7 +1653,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "huo_zheng_zhi_hu_xian"
     },
     {
@@ -1663,7 +1665,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "3d_jing_pian_ti_an"
     },
     {
@@ -1675,7 +1677,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 1,
+      "community": 2,
       "id": "li_guo_ding"
     },
     {
@@ -1711,7 +1713,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 6,
+      "community": 2,
       "id": "huo_1986_liu_zi"
     },
     {
@@ -1735,7 +1737,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "wen_ding_jue_yi"
     },
     {
@@ -1759,7 +1761,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "jue_xing_zhe"
     },
     {
@@ -1783,7 +1785,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "di_liu_ci_wu_zhong"
     },
     {
@@ -1795,7 +1797,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 2,
+      "community": 3,
       "id": "da_bao_jiao_mie"
     },
     {
@@ -1807,7 +1809,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 3,
+      "community": 4,
       "id": "1991_su_lian_wen_zhi"
     },
     {
@@ -1881,6 +1883,162 @@
       "contributor": null,
       "community": 5,
       "id": "guan_hong_wei_ji"
+    },
+    {
+      "label": "C-Score三條創始原則（2020白皮書）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "san_tiao_yuan_ze"
+    },
+    {
+      "label": "主貢獻路徑選擇機制（2026廢除）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "zhu_lu_jing_ji_zhi"
+    },
+    {
+      "label": "紅區資格暫停制度",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "hong_qu_zan_ting"
+    },
+    {
+      "label": "Vita手環（B維度24小時監測）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "vita_shou_huan"
+    },
+    {
+      "label": "基因強化數據納入B維度（2035里斯本協議）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "ji_yin_qiang_hua_b"
+    },
+    {
+      "label": "里斯本運動基因協議（2035）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "lis_ben_xie_yi"
+    },
+    {
+      "label": "Ghost-score（表演社交現象）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "ghost_score"
+    },
+    {
+      "label": "演算法加班（P維度投入強度指標）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "suan_fa_jia_ban"
+    },
+    {
+      "label": "泡沫分數（C維度病毒傳播偏差）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "pao_mo_fen_shu"
+    },
+    {
+      "label": "CIC積分化計算（五維→可排序總分）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "cic_ji_fen"
+    },
+    {
+      "label": "卡珊德拉2043預測（意義焦慮第二代）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "id": "ka_shan_2043"
+    },
+    {
+      "label": "系統原住民世代（從未知道無評分的生活）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 0,
+      "id": "yuan_zhu_min_dai"
+    },
+    {
+      "label": "棱鏡平台整合（S/C維度扭曲轉折）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "community": 1,
+      "id": "peng_jing_zheng_he"
     }
   ],
   "edges": [
@@ -3268,6 +3426,18 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "peng_jing_zheng_he",
+      "_tgt": "peng_jing",
+      "source": "peng_jing",
+      "target": "peng_jing_zheng_he"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "非洲.md",
       "source_location": null,
       "weight": 1.0,
@@ -3448,6 +3618,18 @@
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "cic_ji_fen",
+      "_tgt": "pan_gu",
+      "source": "pan_gu",
+      "target": "cic_ji_fen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
       "source_file": "歐聯.md",
       "source_location": null,
       "weight": 1.0,
@@ -3491,6 +3673,18 @@
       "_tgt": "yi_yi_jiao_lv",
       "source": "ka_shan_de_la",
       "target": "yi_yi_jiao_lv"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "ka_shan_2043",
+      "_tgt": "ka_shan_de_la",
+      "source": "ka_shan_de_la",
+      "target": "ka_shan_2043"
     },
     {
       "relation": "references",
@@ -3925,6 +4119,18 @@
       "target": "jing_zhi_pi_bei"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "ka_shan_2043",
+      "_tgt": "yi_yi_jiao_lv",
+      "source": "yi_yi_jiao_lv",
+      "target": "ka_shan_2043"
+    },
+    {
       "relation": "conceptually_related_to",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -4045,6 +4251,162 @@
       "target": "s_score_eu"
     },
     {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "c_score",
+      "source": "c_score",
+      "target": "san_tiao_yuan_ze"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "pao_mo_fen_shu",
+      "_tgt": "c_score",
+      "source": "c_score",
+      "target": "pao_mo_fen_shu"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "peng_jing_zheng_he",
+      "_tgt": "c_score",
+      "source": "c_score",
+      "target": "peng_jing_zheng_he"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "yuan_zhu_min_dai",
+      "_tgt": "c_score",
+      "source": "c_score",
+      "target": "yuan_zhu_min_dai"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "e_score",
+      "source": "e_score",
+      "target": "san_tiao_yuan_ze"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "p_score",
+      "source": "p_score",
+      "target": "san_tiao_yuan_ze"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "suan_fa_jia_ban",
+      "_tgt": "p_score",
+      "source": "p_score",
+      "target": "suan_fa_jia_ban"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "s_score_bang",
+      "source": "s_score_bang",
+      "target": "san_tiao_yuan_ze"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "ghost_score",
+      "_tgt": "s_score_bang",
+      "source": "s_score_bang",
+      "target": "ghost_score"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "peng_jing_zheng_he",
+      "_tgt": "s_score_bang",
+      "source": "s_score_bang",
+      "target": "peng_jing_zheng_he"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "b_score",
+      "source": "b_score",
+      "target": "san_tiao_yuan_ze"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "vita_shou_huan",
+      "_tgt": "b_score",
+      "source": "b_score",
+      "target": "vita_shou_huan"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "ji_yin_qiang_hua_b",
+      "_tgt": "b_score",
+      "source": "b_score",
+      "target": "ji_yin_qiang_hua_b"
+    },
+    {
       "relation": "semantically_similar_to",
       "confidence": "INFERRED",
       "confidence_score": 0.7,
@@ -4055,6 +4417,18 @@
       "_tgt": "gddr",
       "source": "gddr",
       "target": "shu_ju_zhu_quan"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "san_tiao_yuan_ze",
+      "_tgt": "gddr",
+      "source": "gddr",
+      "target": "san_tiao_yuan_ze"
     },
     {
       "relation": "references",
@@ -4175,6 +4549,90 @@
       "_tgt": "tian_zhao_ji_hua",
       "source": "tian_zhao_ji_hua",
       "target": "ri_ben_yttrium"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "zhu_lu_jing_ji_zhi",
+      "_tgt": "san_tiao_yuan_ze",
+      "source": "san_tiao_yuan_ze",
+      "target": "zhu_lu_jing_ji_zhi"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "cic_ji_fen",
+      "_tgt": "san_tiao_yuan_ze",
+      "source": "san_tiao_yuan_ze",
+      "target": "cic_ji_fen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "hong_qu_zan_ting",
+      "_tgt": "san_tiao_yuan_ze",
+      "source": "san_tiao_yuan_ze",
+      "target": "hong_qu_zan_ting"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "zhu_lu_jing_ji_zhi",
+      "_tgt": "cic_ji_fen",
+      "source": "zhu_lu_jing_ji_zhi",
+      "target": "cic_ji_fen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "hong_qu_zan_ting",
+      "_tgt": "cic_ji_fen",
+      "source": "hong_qu_zan_ting",
+      "target": "cic_ji_fen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "ji_yin_qiang_hua_b",
+      "_tgt": "lis_ben_xie_yi",
+      "source": "ji_yin_qiang_hua_b",
+      "target": "lis_ben_xie_yi"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_src": "yuan_zhu_min_dai",
+      "_tgt": "ka_shan_2043",
+      "source": "ka_shan_2043",
+      "target": "yuan_zhu_min_dai"
     }
   ]
 }
