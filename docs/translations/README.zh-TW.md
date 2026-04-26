@@ -52,6 +52,15 @@ pip install graphifyy && graphify install
 
 > **官方套件：** PyPI 套件名稱為 `graphifyy`。唯一的官方儲存庫是 [safishamsi/graphify](https://github.com/safishamsi/graphify)。
 
+**選用功能：**
+
+```bash
+pip install "graphifyy[office]"   # .docx、.xlsx（需要 python-docx、openpyxl）
+pip install "graphifyy[video]"    # 視訊 / 音訊轉錄（需要 faster-whisper）
+pip install "graphifyy[pdf]"      # PDF 解析（需要 pypdf、html2text）
+pip install "graphifyy[all]"      # 所有選用功能
+```
+
 > **`graphify: command not found`？** 使用 `uv tool install graphifyy`（推薦）或 `pipx install graphifyy` — 兩者都會將 CLI 放在自動加入 PATH 的管理位置。使用 `pip` 時，可能需要將 `~/.local/bin`（Linux）或 `~/Library/Python/3.x/bin`（Mac）加入 PATH，或改用 `python -m graphify`。在 Windows 上，pip 腳本位於 `%APPDATA%\Python\PythonXY\Scripts`。
 
 ## 使用方式
