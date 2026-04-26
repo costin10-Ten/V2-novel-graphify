@@ -1,0 +1,366 @@
+{
+  "communities": {
+    "0": [
+      "an_ta_shen_jing",
+      "bang_lian_fen_lie_2051",
+      "c_score",
+      "cang_qiong_zhi_dun",
+      "chang_he_ping",
+      "chang_pian_shi_shi",
+      "dong_cha_bi_ji",
+      "fei_qin_ru_shen_jing",
+      "han_zhi_yuan",
+      "jiang_yu_an",
+      "lai_cheng_han",
+      "le_tuo_agi",
+      "lei_bi_zhu_yi",
+      "lin_zhi_yun",
+      "meng_you_zhe_wei_ji",
+      "mo_ni_lu_cheng",
+      "prism_ping_tai",
+      "qi_dian_dong_li",
+      "shen_wei_ren_shi_lun",
+      "shu_ju_zi_ben",
+      "sui_bi",
+      "tong_qin_wen_xue",
+      "vita_shou_huan",
+      "yi_ti_bi_ji",
+      "yi_yi_jiao_lv",
+      "ying_ji_tui_li",
+      "zhong_yue_jing"
+    ],
+    "1": [
+      "1982_1987_link",
+      "1982_lattice_geometry_equations",
+      "1982_manuscript_core_equations",
+      "1982_unknown_mathematician_member",
+      "chang_gong_ming_yun_suan",
+      "hsa",
+      "huo_yu_zhou",
+      "jing_ge_ji_yu_yan",
+      "jue_xing_zhe",
+      "la_ma_nu_jin_gao",
+      "meng_xi_ge",
+      "r_xiang_jing_ge",
+      "su_shi_jin",
+      "wen_ding_zhe",
+      "wen_ding_zhe_jue_yi",
+      "wen_zhi",
+      "xian_yin_ji_he",
+      "ybco_chao_dao",
+      "zi_xun_chang_dong_li_xue"
+    ],
+    "2": [
+      "1982_1985_link",
+      "1982_2003_link",
+      "1982_3d_chip_proposal",
+      "1982_3d_nand",
+      "1982_h_ald_technology",
+      "1982_jiang_jing_guo",
+      "1982_li_guo_ding",
+      "1982_political_reform_report",
+      "1982_straits_tech_integration_memo",
+      "1982_taiwan_sovereignty_quote",
+      "gong_ye_ji_shu_yuan",
+      "jin_pian_chang_cheng",
+      "jin_pian_lian_meng",
+      "lu_tai_xie_yi",
+      "mo_niang_ai",
+      "xin_zhu_yuan_qu",
+      "zhong_hua_bang_lian"
+    ],
+    "3": [
+      "1982_1983_link",
+      "1982_argentina_junta",
+      "1982_falklands_war",
+      "1982_lockton",
+      "1982_reagan_recession",
+      "1982_rust_belt",
+      "1982_thatcher",
+      "1982_wen",
+      "di_dong_suan_fa",
+      "luo_ke_dun_guan_bi",
+      "tie_xiu_dai_beng_kui",
+      "yi_lai_si_wan_en"
+    ],
+    "4": [
+      "1982_deng_xiaoping_12th_congress",
+      "1982_seagull_working_group",
+      "able_archer_83",
+      "kal007_shi_jian",
+      "min_zhu_hua_yan_dan",
+      "nian_biao_1981",
+      "nian_biao_1982",
+      "nian_biao_1983",
+      "tai_hai_wei_ji_1983",
+      "tai_hai_zi_xun_ya_zhi",
+      "xiang_gang_jie_chu_1983"
+    ],
+    "5": [
+      "ge_ba_qi_fu",
+      "nian_biao_1984",
+      "nian_biao_1985",
+      "nian_biao_1986",
+      "nian_biao_1987",
+      "nian_biao_1988",
+      "nian_biao_1989",
+      "nian_biao_1990",
+      "su_lian_shou_kong_zhuan_xing"
+    ],
+    "6": [
+      "ai_yin_si_tan_lu_xian",
+      "lin_zhai_xue_an",
+      "mei_li_dao_shen_pan",
+      "nian_biao_1980",
+      "zhong_dong_2040"
+    ],
+    "7": [
+      "1982_blade_runner",
+      "1982_et",
+      "1982_taipei_cultural_scene",
+      "1982_thriller"
+    ],
+    "8": [
+      "1982_einstein_doctrine",
+      "1982_israel_lebanon_war",
+      "1982_sabra_shatila"
+    ],
+    "9": [
+      "1982_aids_naming",
+      "1982_reagan_government"
+    ],
+    "10": [
+      "mei_guo_2040"
+    ],
+    "11": [
+      "ou_lian_2040"
+    ],
+    "12": [
+      "ri_ben_2040"
+    ],
+    "13": [
+      "han_guo_2040"
+    ],
+    "14": [
+      "e_luo_si_2040"
+    ],
+    "15": [
+      "dong_nan_ya_2040"
+    ],
+    "16": [
+      "fei_zhou_2040"
+    ],
+    "17": [
+      "nan_mei_zhou_2040"
+    ],
+    "18": [
+      "ao_zhou_2040"
+    ]
+  },
+  "cohesion_scores": {
+    "0": 0.11,
+    "1": 0.23,
+    "2": 0.2,
+    "3": 0.2,
+    "4": 0.27,
+    "5": 0.22,
+    "6": 0.5,
+    "7": 0.67,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0
+  },
+  "community_labels": {
+    "0": "議題筆記",
+    "1": "弦音幾何 (String-Tone Geometry)",
+    "2": "新竹科學工業園區",
+    "3": "洛克頓",
+    "4": "1983年台海技術危機",
+    "5": "1984年大事年表",
+    "6": "1980年大事年表",
+    "7": "1982年台北文化景象",
+    "8": "愛因斯坦路線（最低限度防禦原則）",
+    "9": "AIDS命名（疾管中心正式命名）",
+    "10": "美國 (2040)",
+    "11": "歐聯 (2040)",
+    "12": "日本 (2040)",
+    "13": "韓國 (2040)",
+    "14": "俄羅斯 (2040)",
+    "15": "東南亞 (2040)",
+    "16": "非洲 (2040)",
+    "17": "南美洲 (2040)",
+    "18": "澳洲與紐西蘭 (2040)"
+  },
+  "god_nodes": [
+    {
+      "id": "xian_yin_ji_he",
+      "label": "弦音幾何 (String-Tone Geometry)",
+      "degree": 13
+    },
+    {
+      "id": "xin_zhu_yuan_qu",
+      "label": "新竹科學工業園區",
+      "degree": 11
+    },
+    {
+      "id": "huo_yu_zhou",
+      "label": "霍予舟",
+      "degree": 11
+    },
+    {
+      "id": "wen_ding_zhe",
+      "label": "穩定者（恆）",
+      "degree": 10
+    },
+    {
+      "id": "tai_hai_wei_ji_1983",
+      "label": "1983年台海技術危機",
+      "degree": 10
+    },
+    {
+      "id": "yi_ti_bi_ji",
+      "label": "議題筆記",
+      "degree": 9
+    },
+    {
+      "id": "meng_xi_ge",
+      "label": "夢溪閣",
+      "degree": 8
+    },
+    {
+      "id": "ying_ji_tui_li",
+      "label": "影集式推理（第二階段）",
+      "degree": 8
+    },
+    {
+      "id": "nian_biao_1980",
+      "label": "1980年大事年表",
+      "degree": 8
+    },
+    {
+      "id": "nian_biao_1983",
+      "label": "1983年大事年表",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "地動演算法（萬恩核心方法論）",
+      "target": "弦音幾何 (String-Tone Geometry)",
+      "source_files": [
+        "my_data/隨筆.md",
+        "my_data/graphify-out/converted/2040世界概況_2_弦音幾何_4044409e.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link; peripheral node `地動演算法（萬恩核心方法論）` unexpectedly reaches hub `弦音幾何 (String-Tone Geometry)`"
+    },
+    {
+      "source": "弦音幾何 (String-Tone Geometry)",
+      "target": "資訊場動力學",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_2_弦音幾何_4044409e.md",
+        "my_data/graphify-out/converted/2040世界概況_3_資訊場動力學_902bc292.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link; peripheral node `資訊場動力學` unexpectedly reaches hub `弦音幾何 (String-Tone Geometry)`"
+    },
+    {
+      "source": "覺醒者",
+      "target": "類比主義",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_1_紋質_071092cb.md",
+        "my_data/寫作計畫.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "「海鷗」秘密工作小組",
+      "target": "穩定者（恆）",
+      "source_files": [
+        "my_data/1982.md",
+        "my_data/graphify-out/converted/2040世界概況_中華邦聯_c273fca7.md"
+      ],
+      "confidence": "AMBIGUOUS",
+      "relation": "conceptually_related_to",
+      "why": "ambiguous connection - not explicitly stated in source; bridges separate communities"
+    },
+    {
+      "source": "穩定者（恆）",
+      "target": "1983年台海技術危機",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_中華邦聯_c273fca7.md",
+        "my_data/1983.md"
+      ],
+      "confidence": "AMBIGUOUS",
+      "relation": "references",
+      "why": "ambiguous connection - not explicitly stated in source; bridges separate communities"
+    },
+    {
+      "source": "1980年大事年表",
+      "target": "1981年大事年表",
+      "source_files": [
+        "my_data/1980.md",
+        "my_data/1981.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `1981年大事年表` unexpectedly reaches hub `1980年大事年表`"
+    },
+    {
+      "source": "手稿核心方程式（夢溪閣研析）",
+      "target": "弦音幾何 (String-Tone Geometry)",
+      "source_files": [
+        "my_data/1982.md",
+        "my_data/graphify-out/converted/2040世界概況_2_弦音幾何_4044409e.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "覺醒者",
+      "target": "長篇史詩（第三階段）",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_1_紋質_071092cb.md",
+        "my_data/寫作計畫.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities"
+    },
+    {
+      "source": "拉馬努金1947年弦音幾何遺稿",
+      "target": "手稿核心方程式（夢溪閣研析）",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_2_弦音幾何_4044409e.md",
+        "my_data/1982.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link"
+    },
+    {
+      "source": "穩定者（恆）",
+      "target": "穩定者蘇聯「受控轉型」候選人評估",
+      "source_files": [
+        "my_data/graphify-out/converted/2040世界概況_中華邦聯_c273fca7.md",
+        "my_data/1984.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities; peripheral node `穩定者蘇聯「受控轉型」候選人評估` unexpectedly reaches hub `穩定者（恆）`"
+    }
+  ]
+}
