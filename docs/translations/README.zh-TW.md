@@ -42,6 +42,7 @@ graphify 分三個階段工作。首先，確定性 AST 遍歷在不使用 LLM �
 **需求：** Python 3.10+ 以及以下之一：[Claude Code](https://claude.ai/code)、[Codex](https://openai.com/codex)、[OpenCode](https://opencode.ai)、[Cursor](https://cursor.com) 等。
 
 ```bash
+# 推薦方式（自動加入 PATH）
 uv tool install graphifyy && graphify install
 # 或使用 pipx
 pipx install graphifyy && graphify install
@@ -50,6 +51,8 @@ pip install graphifyy && graphify install
 ```
 
 > **官方套件：** PyPI 套件名稱為 `graphifyy`。唯一的官方儲存庫是 [safishamsi/graphify](https://github.com/safishamsi/graphify)。
+
+> **`graphify: command not found`？** 使用 `uv tool install graphifyy`（推薦）或 `pipx install graphifyy` — 兩者都會將 CLI 放在自動加入 PATH 的管理位置。使用 `pip` 時，可能需要將 `~/.local/bin`（Linux）或 `~/Library/Python/3.x/bin`（Mac）加入 PATH，或改用 `python -m graphify`。在 Windows 上，pip 腳本位於 `%APPDATA%\Python\PythonXY\Scripts`。
 
 ## 使用方式
 
