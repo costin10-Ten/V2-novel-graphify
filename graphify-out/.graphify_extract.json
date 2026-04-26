@@ -1047,9 +1047,9 @@
     },
     {
       "id": "c_score",
-      "label": "C維度/C-Score——創造貢獻指數（Creative Production Index）",
+      "label": "C-Score——認知兼容性指數·主密鑰（2040實況/Cognitive Compatibility）",
       "file_type": "document",
-      "source_file": "隨筆.md",
+      "source_file": "2040世界概況_中華邦聯.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -1058,9 +1058,9 @@
     },
     {
       "id": "e_score",
-      "label": "E維度——環境承擔貢獻指數（Environmental Stewardship Index）",
+      "label": "E-Score——經濟信用指數（2040實況/Economic Credit）",
       "file_type": "document",
-      "source_file": "隨筆.md",
+      "source_file": "2040世界概況_中華邦聯.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -1069,9 +1069,9 @@
     },
     {
       "id": "p_score",
-      "label": "P維度——發展貢獻指數（Personal Development Index）",
+      "label": "P-Score——職業潛力指數（2040實況/Professional Potential）",
       "file_type": "document",
-      "source_file": "隨筆.md",
+      "source_file": "2040世界概況_中華邦聯.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -1080,9 +1080,9 @@
     },
     {
       "id": "s_score_bang",
-      "label": "S維度——連結貢獻指數（Social Connection Index）",
+      "label": "S-Score——社會影響力指數（2040實況/Social Influence）",
       "file_type": "document",
-      "source_file": "隨筆.md",
+      "source_file": "2040世界概況_中華邦聯.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -1091,9 +1091,9 @@
     },
     {
       "id": "b_score",
-      "label": "B維度——生命貢獻指數（Biological Vitality Index）",
+      "label": "B-Score——生物穩定性指數（2040實況/Biological Stability）",
       "file_type": "document",
-      "source_file": "隨筆.md",
+      "source_file": "2040世界概況_中華邦聯.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -1719,6 +1719,61 @@
     {
       "id": "peng_jing_zheng_he",
       "label": "棱鏡平台整合（S/C維度扭曲轉折）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "p_design",
+      "label": "P維度原始設計——發展貢獻指數（Personal Development，2020白皮書）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "s_design",
+      "label": "S維度原始設計——連結貢獻指數（Social Connection，2020白皮書）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "e_design",
+      "label": "E維度原始設計——環境承擔指數（Environmental Stewardship，2020白皮書）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "b_design",
+      "label": "B維度原始設計——生命貢獻指數（Biological Vitality，2020白皮書）",
+      "file_type": "document",
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "c_design",
+      "label": "C維度原始設計——創造貢獻指數（Creative Production，2020白皮書）",
       "file_type": "document",
       "source_file": "隨筆.md",
       "source_location": null,
@@ -3700,56 +3755,6 @@
       "weight": 1.0
     },
     {
-      "source": "san_tiao_yuan_ze",
-      "target": "p_score",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "隨筆.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "san_tiao_yuan_ze",
-      "target": "s_score_bang",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "隨筆.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "san_tiao_yuan_ze",
-      "target": "e_score",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "隨筆.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "san_tiao_yuan_ze",
-      "target": "b_score",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "隨筆.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
-      "source": "san_tiao_yuan_ze",
-      "target": "c_score",
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "confidence_score": 1.0,
-      "source_file": "隨筆.md",
-      "source_location": null,
-      "weight": 1.0
-    },
-    {
       "source": "zhu_lu_jing_ji_zhi",
       "target": "san_tiao_yuan_ze",
       "relation": "references",
@@ -3948,6 +3953,146 @@
       "source_file": "隨筆.md",
       "source_location": null,
       "weight": 1.0
+    },
+    {
+      "source": "p_design",
+      "target": "p_score",
+      "relation": "distorted_into",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "s_design",
+      "target": "s_score_bang",
+      "relation": "distorted_into",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "e_design",
+      "target": "e_score",
+      "relation": "distorted_into",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "b_design",
+      "target": "b_score",
+      "relation": "distorted_into",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "c_design",
+      "target": "c_score",
+      "relation": "distorted_into",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "san_tiao_yuan_ze",
+      "target": "p_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "san_tiao_yuan_ze",
+      "target": "s_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "san_tiao_yuan_ze",
+      "target": "e_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "san_tiao_yuan_ze",
+      "target": "b_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "san_tiao_yuan_ze",
+      "target": "c_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "suan_fa_jia_ban",
+      "target": "p_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ghost_score",
+      "target": "s_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pao_mo_fen_shu",
+      "target": "c_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "vita_shou_huan",
+      "target": "b_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "隨筆.md",
+      "source_location": null,
+      "weight": 1.0
     }
   ],
   "hyperedges": [
@@ -4017,16 +4162,21 @@
     },
     {
       "id": "he_data_capital_5pillars",
-      "label": "中華邦聯五維數據資本體系（含演化節點）",
+      "label": "邦聯數據資本五維體系：原始設計→2040實況（雙層）",
       "nodes": [
-        "c_score",
-        "e_score",
+        "p_design",
+        "s_design",
+        "e_design",
+        "b_design",
+        "c_design",
         "p_score",
         "s_score_bang",
+        "e_score",
         "b_score",
-        "shu_ju_zi_ben",
+        "c_score",
         "san_tiao_yuan_ze",
-        "cic_ji_fen"
+        "cic_ji_fen",
+        "shu_ju_zi_ben"
       ],
       "relation": "form",
       "confidence": "EXTRACTED",
