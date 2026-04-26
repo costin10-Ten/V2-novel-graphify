@@ -48,6 +48,15 @@ pip install graphifyy && graphify install
 
 > **`graphify: command not found`？** 推荐使用 `uv tool install graphifyy` 或 `pipx install graphifyy` — 两者都会将 CLI 安装到自动加入 PATH 的托管位置。使用 `pip` 时，可能需要手动将 `~/.local/bin`（Linux）或 `~/Library/Python/3.x/bin`（Mac）加入 PATH，或改用 `python -m graphify`。Windows 上 pip 脚本位于 `%APPDATA%\Python\PythonXY\Scripts`。
 
+**可选功能：**
+
+```bash
+pip install "graphifyy[office]"   # .docx、.xlsx（需要 python-docx、openpyxl）
+pip install "graphifyy[video]"    # 视频 / 音频转录（需要 faster-whisper）
+pip install "graphifyy[pdf]"      # PDF 解析（需要 pypdf、html2text）
+pip install "graphifyy[all]"      # 所有可选功能
+```
+
 ### 平台支持
 
 | 平台 | 安装命令 |
